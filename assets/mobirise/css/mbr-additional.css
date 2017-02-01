@@ -32,6 +32,11 @@
 #footer1-6 P {
   color: #8f99af;
 }
+#header4-13 H1 {
+  color: #ffffff;
+  font-size: 36px;
+  text-align: left;
+}
 #menu-m .navbar-toggler {
   color: #000;
 }
@@ -40,4 +45,10 @@
 }
 #footer1-v P {
   color: #8f99af;
+}
+#slider2-10 H2 {
+  font-size: 36px;
+}
+#form1-14 .mbr-section-title {
+  font-size: 20px;
 }
